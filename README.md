@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeeva from Chennai
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning `React Native, React.JS & Flutter `
+- 🌱 I’m currently learning `React Native, React.JS`
 - 📫 How to reach me `jeevasurya2016@gmail.com`
 
 <!---
