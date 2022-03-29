@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeeva from TamilNadu(India) 
+- 👋 Hi, I’m Jeeva from Chennai
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning `React Native, React.JS & Flutter `
 - 📫 How to reach me `jeevasurya2016@gmail.com`
