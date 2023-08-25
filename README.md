@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jeeva from Chennai
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning `React Native, React.JS`
+- I am interested in web and mobile application development
+- Also had 4.4 years of experience in frontend development
+- Known techs are - React.js, React native, Next.js, Typescript, Wordpress and HTML/CSS
 - 📫 How to reach me `jeevasurya2016@gmail.com`
 
 <!---
